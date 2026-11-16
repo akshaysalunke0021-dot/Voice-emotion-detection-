@@ -1,0 +1,6 @@
+streamlit>=1.38
+transformers>=4.40
+torch
+librosa>=0.10
+soundfile
+numpy
